@@ -1,7 +1,7 @@
 # Mushroom Class Detector
 
 ## Overview
-Mushroom classification is crucial in mycology and food safety, as misidentifying toxic mushrooms can have severe consequences. This project uses machine learning to classify mushrooms as **edible** or **poisonous** based on 22 features (e.g., cap shape, surface, odor, habitat). 
+Mushroom classification is crucial in mycology and food safety, as misidentifying toxic mushrooms can have severe consequences. This project uses machine learning to classify mushrooms as **edible** or **poisonous** based on 22 features (e.g., cap shape, surface, odor, habitat). The actual dataset was preprocessed so we randomly inserted 5-10% null values.
 
 The project processes the dataset from the [UCI Machine Learning Repository](https://www.kaggle.com/datasets/uciml/mushroom-classification) and evaluates various models to achieve optimal performance.
 
