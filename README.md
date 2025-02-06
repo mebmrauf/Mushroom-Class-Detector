@@ -28,5 +28,5 @@ Three machine learning models were trained and tested:
 3. **K-Nearest Neighbors (KNN)**
 
 ### Results:
-- All models achieved **100% accuracy** on the test set.
+- **Decision Tree, Random Forest, and K-Nearest Neighbors** — achieved **94.22%, 97.01%, and 95.65%** accuracy respectively.
 - Detailed analysis was performed using precision, recall, and confusion matrices.
